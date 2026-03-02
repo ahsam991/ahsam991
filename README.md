@@ -1,4 +1,6 @@
 # 💫 About Me:
+Now working as Database Engineer in V2 Technologies . 
+
 🔭 I’m currently working on<br>Software Quality Assurance (SQA), full-stack web projects, and academic research in computer science.<br><br>👯 I’m looking to collaborate on<br>Machine Learning projects, data analytics, web applications, and research-oriented software development.<br><br>🤝 I’m looking for help with<br>Advanced machine learning techniques, research publication processes, and large-scale system design.<br><br>🌱 I’m currently learning<br>Machine Learning, Data Analytics, software testing automation, and modern development tools.<br><br>💬 Ask me about<br>C, C++, Java, Python, C#, databases, software testing, machine learning basics, and computer networks (CCNA).<br><br>⚡ Fun fact<br>I enjoy travelling and photography alongside building software solutions.
 
 
