@@ -1,26 +1,115 @@
-# 💫 About Me:
-Now working as Database Engineer in V2 Technologies . 
+<div align="center">
 
-🔭 I’m currently working on<br>Software Quality Assurance (SQA), full-stack web projects, and academic research in computer science.<br><br>👯 I’m looking to collaborate on<br>Machine Learning projects, data analytics, web applications, and research-oriented software development.<br><br>🤝 I’m looking for help with<br>Advanced machine learning techniques, research publication processes, and large-scale system design.<br><br>🌱 I’m currently learning<br>Machine Learning, Data Analytics, software testing automation, and modern development tools.<br><br>💬 Ask me about<br>C, C++, Java, Python, C#, databases, software testing, machine learning basics, and computer networks (CCNA).<br><br>⚡ Fun fact<br>I enjoy travelling and photography alongside building software solutions.
+# MD Ahsamul Haque
 
+**`CSE Researcher · ML Engineer · Builder`**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.ahsamulhaque.2002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ahsamul-haque) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahsamulhaque.aiub@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ahsamul-haque)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahsamulhaque.aiub@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://ahsam991.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ahsam991)
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahsam991&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ahsam991&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsam991&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahsam991&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ahsam991&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ahsam991&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+I'm a Computer Science & Engineering graduate from **AIUB**, Bangladesh, with a focus on **machine learning research**, data analytics, and full-stack development. Currently a researcher at **Techwings Lab**, publishing in ML and CS, and planning to pursue a **Master's in CS in Europe (2026/27)**.
+
+I care about building intelligent, well-engineered systems — and I'm equally comfortable in a research lab or a production codebase.
+
+> 🛫 Open to research collaborations, ML projects, and graduate opportunities in Europe.
+
+---
+
+## Research & Experience
+
+| Role | Organisation | Period |
+|------|-------------|--------|
+| 🔬 Researcher | Techwings Lab | 2025 – Present |
+| 🧪 SQA Intern | V2 Technologies | Jul – Oct 2025 |
+| 📚 Researcher | AIUB R&D Club | 2023 – 2025 |
+| 💻 Member | AIUB Computer Club | 2023 – 2025 |
+
+---
+
+## Selected Projects
+
+**🏥 Full-Stack Hospital Management System** `2025`
+> HTML · CSS · JavaScript · PHP — Reduced patient wait times by 30% and paperwork by 75% via role-based dashboards and emergency modules.
+
+**🧵 Garments Waste Detector & Management System** `2024`
+> Machine Learning · Sensors · Analytics — Detects textile defects and categorizes reusable waste to promote sustainable fashion.
+
+**📝 Quiz Peak** `2024`
+> C# · .NET — Secure assessment platform for students and teachers with full question management.
+
+**🗄️ Hospital Management System (DB)** `2023`
+> SQL · ER Diagrams — Relational database design improving data integrity and workflow efficiency.
+
+---
+
+## Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Web & Backend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Data & ML**
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black)
+
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**Tools & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+---
+
+## Education
+
+🎓 **B.Sc. in Computer Science & Engineering** — AIUB, Bangladesh `2022 – 2025` · CGPA: 3.72/4.00
+📘 **HSC** — Comilla Residential College `2020` · GPA: 4.83/5.00
+
+---
+
+## Certifications
+
+🏅 **Cisco Certified Network Associate (CCNA)** — 2023
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsam991&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsam991&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=ahsam991&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Bengali (Native) · English (Professional) · Open to Opportunities in Europe 🌍</sub>
+</div>
