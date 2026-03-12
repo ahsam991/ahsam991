@@ -1,9 +1,12 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
+<!-- ████████████████████████████████████████ -->
+<!--           ANIMATED HEADER               -->
+<!-- ████████████████████████████████████████ -->
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0f0c29&height=280&section=header&text=MD%20Ahsamul%20Haque&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=%E2%9C%A6%20CSE%20Researcher%20%C2%B7%20ML%20Engineer%20%C2%B7%20Builder%20%E2%9C%A6&descAlignY=60&descColor=c4b5fd&animation=fadeIn&stroke=7c3aed&strokeWidth=2" width="100%"/>
 
-<!-- Animated Typing -->
+<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=C4B5FD&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%94%AC+ML+Researcher+%40+Techwings+Lab;%F0%9F%8C%90+Full-Stack+Developer+%26+Entrepreneur;%F0%9F%9B%A2%EF%B8%8F+Database+Engineer+%40+V2+Technologies;%F0%9F%8E%93+MSc+CS+Aspirant+%E2%80%94+Europe+2026%2F27;%F0%9F%93%B8+Travel+Photographer+%26+Creator" alt="Typing SVG" />
 </a>
@@ -25,6 +28,10 @@
 </div>
 
 ---
+
+<!-- ████████████████████████████████████████ -->
+<!--              ABOUT SECTION              -->
+<!-- ████████████████████████████████████████ -->
 
 <img align="right" width="380" src="https://github-readme-activity-graph.vercel.app/graph?username=ahsam991&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=ffffff&area=true&area_color=2d1b69&hide_border=true&radius=10"/>
 
@@ -57,50 +64,98 @@ class Ahsam:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
-
-## ⚡ Currently Working At
+<!-- ████████████████████████████████████████ -->
+<!--         CURRENTLY WORKING AT            -->
+<!-- ████████████████████████████████████████ -->
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,100:0c1a2e&height=60&section=header&text=%E2%9A%A1%20Currently%20Working%20At&fontSize=28&fontColor=c4b5fd&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
+
 <table>
 <tr>
+
 <td align="center" width="33%">
 
-**🔬 Techwings Lab**
+<!-- Animated top bar -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:4f46e5&height=6&section=header" width="100%"/>
 
-`ML Researcher`
+<br/>
 
-Publishing ML & CS papers  
-in conferences & journals
+<img src="https://img.shields.io/badge/🔬_TECHWINGS_LAB-Research-7c3aed?style=for-the-badge&labelColor=0d0d1a"/>
 
-`2025 – Present`
+<br/><br/>
+
+<img src="https://img.shields.io/badge/-ML_Researcher-c4b5fd?style=flat-square&logo=academia&logoColor=black"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📄_Publishing-ML_%26_CS_Papers-8b5cf6?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/🎯_Venue-Conferences_%26_Journals-7c3aed?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/🧠_Focus-Machine_Learning-6d28d9?style=flat-square&logo=python&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📅_2025-Present-22c55e?style=flat-square"/>
 
 </td>
+
 <td align="center" width="33%">
 
-**🏢 V2 Technologies**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:0284c7&height=6&section=header" width="100%"/>
 
-`Database Engineer`
+<br/>
 
-Building robust data systems  
-& database infrastructure
+<img src="https://img.shields.io/badge/🏢_V2_TECHNOLOGIES-Engineering-0ea5e9?style=for-the-badge&labelColor=0a1520"/>
 
-`2025 – Present`
+<br/><br/>
+
+<img src="https://img.shields.io/badge/-Database_Engineer-38bdf8?style=flat-square&logo=postgresql&logoColor=black"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🗄️_Building-Robust_Data_Systems-0ea5e9?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/⚙️_Focus-DB_Infrastructure-0284c7?style=flat-square&logo=oracle&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/🔧_Stack-MySQL_%7C_PostgreSQL_%7C_Oracle-06b6d4?style=flat-square"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📅_2025-Present-22c55e?style=flat-square"/>
 
 </td>
+
 <td align="center" width="33%">
 
-**🛒 Adiari**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,100:d97706&height=6&section=header" width="100%"/>
 
-`Founder & Operator`
+<br/>
 
-Online retail business  
-[adiari.shop](https://adiari.shop)
+<img src="https://img.shields.io/badge/🛒_ADIARI-Founder-f59e0b?style=for-the-badge&labelColor=1a0e00"/>
 
-`2024 – Present`
+<br/><br/>
+
+<img src="https://img.shields.io/badge/-Founder_%26_Operator-fbbf24?style=flat-square&logo=shopify&logoColor=black"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🌐_Live-adiari.shop-22c55e?style=flat-square&logo=google-chrome&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/📦_Type-Online_Retail-f97316?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/💳_Platform-E--Commerce-f59e0b?style=flat-square&logo=wordpress&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📅_2024-Present-22c55e?style=flat-square"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -108,81 +163,132 @@ Online retail business
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ████████████████████████████████████████ -->
+<!--             GITHUB TROPHIES             -->
+<!-- ████████████████████████████████████████ -->
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ahsam991&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:1a0533&height=60&section=header&text=%F0%9F%8F%86%20GitHub%20Trophies&fontSize=28&fontColor=fbbf24&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ahsam991&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=8&column=4&rank=AAA,AA,A,B,C" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ahsam991&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=8&column=4&rank=SECRET,SSS,SS,S" />
 
 </div>
 
 ---
 
-## 🚀 Live Projects
+<!-- ████████████████████████████████████████ -->
+<!--              LIVE PROJECTS              -->
+<!-- ████████████████████████████████████████ -->
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:052e16,100:0d2818&height=60&section=header&text=%F0%9F%9A%80%20Live%20Projects&fontSize=28&fontColor=4ade80&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
+
 <table>
 <tr>
+
 <td align="center" width="50%">
+<a href="https://adiari.shop">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,100:d97706&height=6&section=header" width="100%"/>
+<br/>
+<img src="https://img.shields.io/badge/🛒_ADIARI_—_ONLINE_RETAIL-LIVE-22c55e?style=for-the-badge&labelColor=052e16"/>
+</a>
 
-### 🛒 Adiari — Online Retail
+<br/><br/>
 
-[![LIVE](https://img.shields.io/badge/🌐_LIVE-adiari.shop-22c55e?style=for-the-badge)](https://adiari.shop)
-
+[![adiari](https://img.shields.io/website?url=https%3A%2F%2Fadiari.shop&style=flat-square&label=adiari.shop&color=22c55e)](https://adiari.shop)
 ![E-Commerce](https://img.shields.io/badge/-E--Commerce-f59e0b?style=flat-square)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Retail](https://img.shields.io/badge/-Online_Retail-f97316?style=flat-square)
+![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 
-Full e-commerce platform with product listings, secure checkout, order management & promo campaigns. Founder-operated venture.
+Full e-commerce platform — product listings, secure checkout, order management & promo campaigns.
+
+**Founder-operated retail venture 🛒**
 
 </td>
+
 <td align="center" width="50%">
+<a href="https://bhaibachao.vercel.app">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:4f46e5&height=6&section=header" width="100%"/>
+<br/>
+<img src="https://img.shields.io/badge/🤝_BHAIBACHAO-LIVE-22c55e?style=for-the-badge&labelColor=052e16"/>
+</a>
 
-### 🤝 BhaiBachao
+<br/><br/>
 
-[![LIVE](https://img.shields.io/badge/🌐_LIVE-bhaibachao.vercel.app-22c55e?style=for-the-badge)](https://bhaibachao.vercel.app)
-
+[![bhaibachao](https://img.shields.io/website?url=https%3A%2F%2Fbhaibachao.vercel.app&style=flat-square&label=bhaibachao.vercel.app&color=22c55e)](https://bhaibachao.vercel.app)
 ![Web App](https://img.shields.io/badge/-Web_App-6366f1?style=flat-square)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-Community platform connecting people for local support and coordination — built and deployed on Vercel.
+Community platform connecting people for local support & coordination.
+
+**Deployed on Vercel ⚡**
 
 </td>
+
 </tr>
 <tr>
+
 <td align="center" width="50%">
+<a href="https://vetconsult.vercel.app">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10b981,100:059669&height=6&section=header" width="100%"/>
+<br/>
+<img src="https://img.shields.io/badge/🐾_VETCONSULT-LIVE-22c55e?style=for-the-badge&labelColor=052e16"/>
+</a>
 
-### 🐾 VetConsult
+<br/><br/>
 
-[![LIVE](https://img.shields.io/badge/🌐_LIVE-vetconsult.vercel.app-22c55e?style=for-the-badge)](https://vetconsult.vercel.app)
-
+[![vetconsult](https://img.shields.io/website?url=https%3A%2F%2Fvetconsult.vercel.app&style=flat-square&label=vetconsult.vercel.app&color=22c55e)](https://vetconsult.vercel.app)
 ![Health](https://img.shields.io/badge/-Vet_Health-10b981?style=flat-square)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-Online veterinary consultation platform — connecting pet owners with vets for remote health consultations.
+Online vet consultation — connecting pet owners with veterinarians remotely.
+
+**Remote health platform 🐾**
 
 </td>
+
 <td align="center" width="50%">
+<a href="https://ahsam.iam.bd">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:6d28d9&height=6&section=header" width="100%"/>
+<br/>
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO_—_AHSAM.IAM.BD-LIVE-22c55e?style=for-the-badge&labelColor=052e16"/>
+</a>
 
-### 🌐 Personal Portfolio
+<br/><br/>
 
-[![LIVE](https://img.shields.io/badge/🌐_LIVE-ahsam.iam.bd-22c55e?style=for-the-badge)](https://ahsam.iam.bd)
-
+[![portfolio](https://img.shields.io/website?url=https%3A%2F%2Fahsam.iam.bd&style=flat-square&label=ahsam.iam.bd&color=22c55e)](https://ahsam.iam.bd)
 ![Portfolio](https://img.shields.io/badge/-Portfolio-7c3aed?style=flat-square)
-![Custom Domain](https://img.shields.io/badge/-Custom_.iam.bd_Domain-0ea5e9?style=flat-square)
+![Custom Domain](https://img.shields.io/badge/-Custom_.iam.bd-0ea5e9?style=flat-square)
+![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white)
 
-Personal developer portfolio with custom domain — showcasing research, live projects, and professional journey.
+Personal developer portfolio — research, projects & professional journey.
+
+**Custom `.iam.bd` domain 🌐**
 
 </td>
+
 </tr>
 </table>
 
 </div>
 
 ---
+
+<!-- ████████████████████████████████████████ -->
+<!--           ACADEMIC PROJECTS             -->
+<!-- ████████████████████████████████████████ -->
 
 ## 📁 Academic Projects
 
@@ -236,6 +342,10 @@ Personal developer portfolio with custom domain — showcasing research, live pr
 
 ---
 
+<!-- ████████████████████████████████████████ -->
+<!--              TECH ARSENAL               -->
+<!-- ████████████████████████████████████████ -->
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -285,6 +395,10 @@ Personal developer portfolio with custom domain — showcasing research, live pr
 
 ---
 
+<!-- ████████████████████████████████████████ -->
+<!--            GITHUB ANALYTICS             -->
+<!-- ████████████████████████████████████████ -->
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -299,6 +413,10 @@ Personal developer portfolio with custom domain — showcasing research, live pr
 </div>
 
 ---
+
+<!-- ████████████████████████████████████████ -->
+<!--         EDUCATION & CERTIFICATIONS      -->
+<!-- ████████████████████████████████████████ -->
 
 ## 🎓 Education & Certifications
 
@@ -315,25 +433,54 @@ Personal developer portfolio with custom domain — showcasing research, live pr
 
 ---
 
+<!-- ████████████████████████████████████████ -->
+<!--      SNAKE + CONTRIBUTIONS SECTION      -->
+<!-- ████████████████████████████████████████ -->
+
 <div align="center">
 
-### 🐍 Watch the Snake Eat My Contributions
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a1a0a,100:0f2818&height=60&section=header&text=%F0%9F%90%8D%20Contribution%20Snake&fontSize=28&fontColor=4ade80&fontAlignY=65&animation=fadeIn" width="100%"/>
 
+<br/>
+
+<!-- Snake SVG — works after snake.yml Action is added -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahsam991/ahsam991/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahsam991/ahsam991/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/ahsam991/ahsam991/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ahsam991/ahsam991/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 <br/><br/>
 
-### 💬 Dev Quote of the Day
+<!-- ✅ ALWAYS WORKS: Purple contribution heatmap -->
+<img src="https://ghchart.rshah.org/7c3aed/ahsam991" alt="Ahsam's Contribution Chart" width="100%"/>
+
+<br/><br/>
+
+<!-- ✅ ALWAYS WORKS: Animated activity line graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsam991&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=c4b5fd&area=true&area_color=1a0533&hide_border=true&radius=8&custom_title=Ahsam%27s%20Contribution%20Timeline" width="100%"/>
+
+<br/><br/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:1a1040&height=60&section=header&text=%F0%9F%92%AC%20Dev%20Quote%20of%20the%20Day&fontSize=28&fontColor=c4b5fd&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
 ---
+
+<!-- ████████████████████████████████████████ -->
+<!--           ANIMATED FOOTER               -->
+<!-- ████████████████████████████████████████ -->
 
 <div align="center">
 
