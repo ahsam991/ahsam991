@@ -1,9 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,30:12002e,60:1e0050,100:0d0028&height=320&section=header&text=MD%20Ahsamul%20Haque&fontSize=62&fontColor=f0e6ff&fontAlignY=38&desc=ML%20Researcher%20%C2%B7%20Database%20Engineer%20%C2%B7%20Founder&descAlignY=56&descColor=9d71f5&animation=fadeIn&stroke=6929c4&strokeWidth=1.5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,30:12002e,60:1e0050,100:0d0028&height=300&section=header"/>
+
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100" align="right"/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="140"/>
+
+### Hi 👋, I'm MD Ahsamul Haque
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%94%AC+ML+Researcher+%40+Techwings+Lab%2C+Dhaka;%F0%9F%97%84%EF%B8%8F+Database+Engineer+%40+V2+Technologies;%F0%9F%9B%92+Founder+%26+Operator+%E2%80%94+adiari.shop;%F0%9F%8E%93+MSc+Data+Science+%40+Kingston+University%2C+2026;%F0%9F%93%B8+Travel+Photographer+%26+Cinematographer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%94%AC+ML+Researcher+%40+Techwings+Lab%2C+Dhaka;%F0%9F%97%84%EF%B8%8F+Database+Engineer+%40+V2+Technologies;%F0%9F%9B%92+Founder+%26+Operator+%E2%80%94+adiari.shop;%F0%9F%8E%93+MSc+Data+Science+%40+Kingston+University%2C+2026;%F0%9F%93%B8+Travel+Photographer+%26+Cinematographer" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -19,6 +25,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ahsam991&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/ahsam991?style=for-the-badge&color=6d28d9&labelColor=1a0040&label=FOLLOWERS)
 ![Stars](https://img.shields.io/github/stars/ahsam991?style=for-the-badge&color=6d28d9&labelColor=1a0040&label=STARS)
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/RecordIt-teal.gif" width="100%"/>
 
 </div>
 
@@ -149,7 +159,11 @@ me.say_hi()
 
 ## 🚀 Live Projects
 
-<div align="center"><br/>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rocket-io-in-out.gif" width="80"/>
+
+<br/>
 
 <table>
 <tr>
@@ -248,6 +262,12 @@ Online vet consultation platform — connecting pet owners with licensed veterin
 ## 🛠️ Tech Arsenal
 
 <div align="center"><br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,php,cs,java,cpp,bash,react,ts,html,css,js,tailwind,dotnet,pytorch,mysql,postgres,oracle,git,github,aws,figma,vercel&theme=dark&perline=11" alt="Skills"/>
+</a>
+
+<br/><br/>
 
 **⚡ Languages**
 
@@ -353,10 +373,16 @@ Online vet consultation platform — connecting pet owners with licensed veterin
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
+<br/>
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/tumblr_ozqp4fVy0h1u7glc4o8_540.gif" width="220"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0028,40:1e0050,70:2e1065,100:0a0018&height=140&section=footer&text=Let%27s+Connect+%26+Build+Together&fontSize=22&fontColor=a78bfa&fontAlignY=58&animation=twinkling" width="100%"/>
+<h3>
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&color=A78BFA&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let%27s+connect+%26+build+together+%E2%9C%A6">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let%27s+connect+%26+build+together+%E2%9C%A6"/>
+  </a>
+</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0028,40:1e0050,70:2e1065,100:0a0018&height=140&section=footer" width="100%"/>
 
 </div>
