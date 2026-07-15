@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,30:12002e,60:1e0050,100:0d0028&height=320&section=header&text=MD%20Ahsamul%20Haque&fontSize=62&fontColor=f0e6ff&fontAlignY=40&desc=ML%20Researcher%20%C2%B7%20Database%20Engineer%20%C2%B7%20Founder&descAlignY=58&descColor=9d71f5&animation=fadeIn&stroke=6929c4&strokeWidth=1.5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,30:12002e,60:1e0050,100:0d0028&height=320&section=header&text=MD%20Ahsamul%20Haque&fontSize=62&fontColor=f0e6ff&fontAlignY=38&desc=ML%20Researcher%20%C2%B7%20Database%20Engineer%20%C2%B7%20Founder&descAlignY=56&descColor=9d71f5&animation=fadeIn&stroke=6929c4&strokeWidth=1.5" width="100%"/>
 
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%94%AC+ML+Researcher+%40+Techwings+Lab%2C+Dhaka;%F0%9F%97%84%EF%B8%8F+Database+Engineer+%40+V2+Technologies;%F0%9F%9B%92+Founder+%26+Operator+%E2%80%94+adiari.shop;%F0%9F%8E%93+MSc+Data+Science+%40+Kingston+University%2C+2026;%F0%9F%93%B8+Travel+Photographer+%26+Cinematographer" alt="Typing SVG"/>
+</a>
 
-<div align="center">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%94%AC+ML+Researcher+%40+Techwings+Lab%2C+Dhaka;%F0%9F%97%84%EF%B8%8F+Database+Engineer+%40+V2+Technologies;%F0%9F%9B%92+Founder+%26+Operator+%E2%80%94+adiari.shop;%F0%9F%8E%93+MSc+CS+Applicant+%E2%80%94+Europe+2026%2F27;%F0%9F%93%B8+Travel+Photographer+%26+Cinematographer" alt="Typing SVG" /></a>
-
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ahsamul-haque)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsamulhaque.aiub@gmail.com)
@@ -20,10 +18,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ahsam991&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/ahsam991?style=for-the-badge&color=6d28d9&labelColor=1a0040&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/ahsam991?style=for-the-badge&color=6d28d9&labelColor=1a0040&label=STARS)
 
 </div>
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0020,100:0d0020&height=2&section=header" width="100%"/>
 
 ## 👨‍💻 `whoami`
 
@@ -37,7 +38,7 @@ class Ahsam:
     company   = "V2 Technologies"
     venture   = "adiari.shop — Online Retail"
     education = "B.Sc. CSE @ AIUB  |  GPA: 3.72 / 4.00"
-    pursuing  = "MSc CS in Europe — 2026/27 🎓"
+    pursuing  = "MSc Data Science @ Kingston University 🎓"
     portfolio = "ahsam.iam.bd"
 
     interests = [
@@ -49,30 +50,33 @@ class Ahsam:
 
     def say_hi(self):
         print("Thanks for stopping by! Let's build. ✦")
+
+
+me = Ahsam()
+me.say_hi()
 ```
 
 <br/>
 
-- 🔭 &nbsp;**Now:** ML Research publications @ Techwings Lab + DB engineering @ V2 Tech
-- 💼 &nbsp;**Venture:** Founder of [adiari.shop](https://adiari.shop) — online retail platform
-- 🎓 &nbsp;**Next:** MSc Computer Science in Europe — applying for 2026/27 intake
+- 🔭 &nbsp;**Now:** ML research publications @ Techwings Lab + DB engineering @ V2 Technologies
+- 💼 &nbsp;**Venture:** Founder of [adiari.shop](https://adiari.shop) — online retail & POS platform
+- 🎓 &nbsp;**Next:** MSc Data Science with Professional Placement @ Kingston University (Sept 2026)
 - 📸 &nbsp;**Outside code:** Travel photography, cinematography & editorial visuals
 
 <br clear="right"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0020,100:0d0020&height=2&section=header" width="100%"/>
 
 ## ⚡ Currently Working At
 
-<div align="center">
-<br/>
+<div align="center"><br/>
 
 <table>
 <tr>
 
 <td align="center" width="33%">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,100:7c3aed&height=4&section=header" width="100%"/>
-<br/><br/>
+<br/>
 
 **🔬 TECHWINGS LAB**
 
@@ -84,31 +88,31 @@ class Ahsam:
 
 <br/>
 
-![Since](https://img.shields.io/badge/📅_2025-Present-22c55e?style=flat-square)
+![Since](https://img.shields.io/badge/📅_2025--Present-22c55e?style=flat-square)
 
 </td>
 
 <td align="center" width="33%">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c4a6e,100:0ea5e9&height=4&section=header" width="100%"/>
-<br/><br/>
+<br/>
 
 **🏢 V2 TECHNOLOGIES**
 
-`Database Engineer`
+`Junior Database Engineer`
 
-![Stack](https://img.shields.io/badge/Stack-MySQL_%7C_PostgreSQL_%7C_Oracle-0ea5e9?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-DB_Infrastructure-0284c7?style=flat-square&logo=postgresql&logoColor=white)
+![Stack](https://img.shields.io/badge/Stack-PostgreSQL_%7C_MySQL_%7C_Oracle-0ea5e9?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-eCRM_Platform-0284c7?style=flat-square&logo=postgresql&logoColor=white)
 ![Systems](https://img.shields.io/badge/Building-Robust_Data_Systems-0369a1?style=flat-square)
 
 <br/>
 
-![Since](https://img.shields.io/badge/📅_2025-Present-22c55e?style=flat-square)
+![Since](https://img.shields.io/badge/📅_2025--Present-22c55e?style=flat-square)
 
 </td>
 
 <td align="center" width="33%">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:92400e,100:f59e0b&height=4&section=header" width="100%"/>
-<br/><br/>
+<br/>
 
 **🛒 ADIARI**
 
@@ -120,7 +124,7 @@ class Ahsam:
 
 <br/>
 
-![Since](https://img.shields.io/badge/📅_2024-Present-22c55e?style=flat-square)
+![Since](https://img.shields.io/badge/📅_2024--Present-22c55e?style=flat-square)
 
 </td>
 
@@ -129,27 +133,23 @@ class Ahsam:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0020,100:0d0020&height=2&section=header" width="100%"/>
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-<br/>
+<div align="center"><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ahsam991&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=AAA,AA,A,B,C"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ahsam991&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=AAA,AA,A,B,C" alt="trophies row 1"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahsam991&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ahsam991&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S" alt="trophies row 2"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0020,100:0d0020&height=2&section=header" width="100%"/>
 
 ## 🚀 Live Projects
 
-<div align="center">
-<br/>
+<div align="center"><br/>
 
 <table>
 <tr>
@@ -227,12 +227,11 @@ Online vet consultation platform — connecting pet owners with licensed veterin
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0020,100:0d0020&height=2&section=header" width="100%"/>
 
 ## 📁 Academic Projects
 
-<div align="center">
-<br/>
+<div align="center"><br/>
 
 | Project | Year | Stack | Impact |
 |:--------|:----:|:------|:-------|
@@ -240,16 +239,15 @@ Online vet consultation platform — connecting pet owners with licensed veterin
 | 🧵 **Garments Defect Detector** | 2024 | Python · ML · TensorFlow | ✅ Sensor-integrated · eco-friendly QA |
 | 📝 **Quiz Peak — Exam Platform** | 2024 | C# · .NET · SQL Server | ✅ Role-based access · result analytics |
 | 🗄️ **Hospital DB System** | 2023 | Oracle SQL · PL/SQL | ✅ Data integrity · efficient retrieval |
-| 🔍 **MFDS-RCNN Object Detector** | 2025 | Python · PyTorch · RCNN | ✅ Novel multi-feature approach (Research) |
+| 🔍 **MFDS-RCNN Object Detector** | 2025 | Python · PyTorch · RCNN | ✅ Novel dual-stream detection (Research) |
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0020,100:0d0020&height=2&section=header" width="100%"/>
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
-<br/>
+<div align="center"><br/>
 
 **⚡ Languages**
 
@@ -299,32 +297,31 @@ Online vet consultation platform — connecting pet owners with licensed veterin
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0020,100:0d0020&height=2&section=header" width="100%"/>
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-<br/>
+<div align="center"><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahsam991&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&border_radius=14&bg_color=0d0020&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ahsam991&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&border_radius=14&bg_color=0d0020&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" height="185" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsam991&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=14&bg_color=0d0020&title_color=a78bfa&text_color=e2e8f0" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsam991&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=14&bg_color=0d0020&title_color=a78bfa&text_color=e2e8f0" height="185" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=ahsam991&theme=tokyonight&hide_border=true&border_radius=14&background=0d0020&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa"/>
+<img src="https://streak-stats.demolab.com?user=ahsam991&theme=tokyonight&hide_border=true&border_radius=14&background=0d0020&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0020,100:0d0020&height=2&section=header" width="100%"/>
 
 ## 🎓 Education & Certifications
 
-<div align="center">
-<br/>
+<div align="center"><br/>
 
 | &nbsp; | Qualification | Institution | Year | Result |
 |:------:|:-------------|:------------|:----:|:------:|
+| 🎓 | **MSc Data Science (Professional Placement)** | Kingston University, UK | 2026– | *Incoming* |
 | 🎓 | **B.Sc. in Computer Science & Engineering** | American International University — Bangladesh (AIUB) | 2022–2025 | **3.72 / 4.00** |
 | 🌐 | **CCNA — Cisco Certified Network Associate** | Cisco | 2023 | ✅ Certified |
 | 📘 | **HSC — Higher Secondary Certificate** | Comilla Residential College | 2020 | **4.83 / 5.00** |
@@ -332,12 +329,11 @@ Online vet consultation platform — connecting pet owners with licensed veterin
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0020,100:0d0020&height=2&section=header" width="100%"/>
 
 ## 🐍 Contribution Activity
 
-<div align="center">
-<br/>
+<div align="center"><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahsam991/ahsam991/output/github-contribution-grid-snake-dark.svg"/>
@@ -351,15 +347,13 @@ Online vet consultation platform — connecting pet owners with licensed veterin
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0020,100:0d0020&height=2&section=header" width="100%"/>
 
 <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
----
 
 <div align="center">
 
